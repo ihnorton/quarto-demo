@@ -1,3 +1,4 @@
 project:
   title: "quarto-demo"
+  type: "website"
   output-dir: "docs"
